@@ -1,0 +1,19 @@
+# Core LangChain packages
+langchain==0.0.340
+langchain-community==0.0.20
+langchain-core==0.1.23
+langchain-groq==0.0.1
+
+# Search tool
+duckduckgo_search==8.1.1
+
+# Environment variables
+python-dotenv==1.0.0
+
+# HTTP requests
+requests==2.32.4
+
+# Type checking
+typing_extensions==4.13.2
+pydantic==2.11.7
+pydantic_core==2.33.2
